@@ -1,1 +1,1 @@
-print ('ali')
+print ('fuck you')
